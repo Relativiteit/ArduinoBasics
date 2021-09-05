@@ -10,7 +10,7 @@ For the projects the Elegoo complete starter pack is recommended however you can
   * [Project 2: Light Dimmer](#project-2--light-dimmer)
     + [BOM2 (Bill of Materials Light Dimmer)](#bom2--bill-of-materials-light-dimmer-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+[//]: # ( <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> )
 
 Project Structure
 The projects will have a small introduction on what is the expected outcome, and a Bill of Materials. 
