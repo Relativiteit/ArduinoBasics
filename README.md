@@ -45,6 +45,7 @@ As the name `LightDimmerProject2` suggests the led as seen in project 1 can now 
 * Led
 * 10k ohm potentiometer 
 * 330 ohm resitor 
+
 ! if you dont have the exact resistor you can place them in series or paralell to get the correct or approximate required resistance. ! If all of this sounds new to you please check https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-parallel-resistors so you can get up and running fast. 
 
 
