@@ -21,22 +21,22 @@ You can also search on BOM based on the projects, the BOMx corresponds with the 
 
 
 
-## Project 1: Button Led 
+## Project 1: Button LED 
 This is the "Hello World!" of electronics. 
 `ButtonLedProject1` is your first program where a normally closed button is pressed so it switches to open and the Led will stop shining bright.
 
-### BOM1 (Bill of Materials Button Led)
+### BOM1 (Bill of Materials Button LED)
 * Arduino Uno 
 * Breadboard 
 * Wires
-* Led
+* LED
 * Digital button with 4 pins
 * 10k ohm resistor 
 * 220 ohm resistor 
 
 ## Project 2: Light Dimmer
 Who doesn't like a good light dimmer while listing to Bruno Mars on a summers night. 
-As the name `LightDimmerProject2` suggests the led as seen in project 1 can now be controlled with an analog potentiometer. In the case of the humble LED you can't actually dimm the lumen(light power) but you can controll the frequency of the led turning on and off also called PWM (pulse width modulation). With our "inferior to robots" eyes this lenght at with a signal is kept high within the pulse will create the illusion of a dimming light source. 
+As the name `LightDimmerProject2` suggests the LED as seen in project 1 can now be controlled with an analog potentiometer. In the case of the humble LED you can't actually dimm the lumen(light power) but you can controll the frequency of the led turning on and off also called PWM (pulse width modulation). With our "inferior to robots" eyes this signal is kept high with a pulse, this will create the illusion of a dimming light source. 
 
 ### BOM2 (Bill of Materials Light Dimmer)
 * Arduino Uno 
@@ -48,8 +48,17 @@ As the name `LightDimmerProject2` suggests the led as seen in project 1 can now 
 
 **Attention** If you dont have the exact resistor you can place them in series or paralell to get the correct or approximate required resistance. ! If all of this sounds new to you please check https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-parallel-resistors so you can get up and running fast. 
 
+## Project 3 Led Bar Chart 
+A bar chart is a great visual tool to showcase a load, intensity, amplitude a whole host of things the sky is the limit but we will now limit to leds.
+In `LedBarChartProject3` you will controll mutiple leds, it's almost the same as project2 but with more leds. 
 
-
+## BOM3 (Bill of Materials Led Bar Chart 
+* Arduino Uno
+* Breadboard
+* Wires
+* 9 LED's
+* 10k ohm potentiometer
+* 9 x 220 ohm resistors 
 
   
 
