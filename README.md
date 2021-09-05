@@ -48,11 +48,11 @@ As the name `LightDimmerProject2` suggests the LED as seen in project 1 can now 
 
 **Attention** If you dont have the exact resistor you can place them in series or paralell to get the correct or approximate required resistance. ! If all of this sounds new to you please check https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-parallel-resistors so you can get up and running fast. 
 
-## Project 3 Led Bar Chart 
+## Project 3 LED Bar Chart 
 A bar chart is a great visual tool to showcase a load, intensity, amplitude a whole host of things the sky is the limit but we will now limit to leds.
 In `LedBarChartProject3` you will controll mutiple leds, it's almost the same as project2 but with more leds. 
 
-## BOM3 (Bill of Materials Led Bar Chart 
+## BOM3 (Bill of Materials Led Bar Chart)
 * Arduino Uno
 * Breadboard
 * Wires
