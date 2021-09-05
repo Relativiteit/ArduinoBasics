@@ -26,7 +26,7 @@ This is the "Hello World!" of electronics.
 
 ## Project 2: Light Dimmer
 Who doesn't like a good light dimmer while listing to Bruno Mars on a summers night. 
-As the name `LightDimmer` suggests the led as seen in project 1 can now be controlled with an analog potentiometer. In the case of the humble LED you can't actually dimm the lumen(light power) but you can controll the frequency of the led turning on and off also called PWM (pulse width modulation). With our "inferior to robots" eyes this lenght at with a signal is kept high within the pulse will create the illusion of a dimming light source. 
+As the name `LightDimmerProject2` suggests the led as seen in project 1 can now be controlled with an analog potentiometer. In the case of the humble LED you can't actually dimm the lumen(light power) but you can controll the frequency of the led turning on and off also called PWM (pulse width modulation). With our "inferior to robots" eyes this lenght at with a signal is kept high within the pulse will create the illusion of a dimming light source. 
 
 ### BOM2 (Bill of Materials Light Dimmer)
 * Arduino Uno 
