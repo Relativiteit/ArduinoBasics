@@ -1,10 +1,8 @@
 # Basics of arduino!
 This repository hosts various small projects chronologically that will learn you the basics of arduino. 
 
-For the projects the Elegoo complete starter pack is recommended however you can also only buy the necessarry parts for the projects you want to complete.
-
-
 - [Basics of arduino!](#basics-of-arduino-)
+  * [Project Structure](#project-structure-)
   * [Project 1: Button Led](#project-1--button-led)
     + [BOM1 (Bill of Materials Button Led)](#bom1--bill-of-materials-button-led-)
   * [Project 2: Light Dimmer](#project-2--light-dimmer)
@@ -12,7 +10,8 @@ For the projects the Elegoo complete starter pack is recommended however you can
 
 [//]: # ( <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> )
 
-Project Structure
+For the projects the Elegoo complete starter pack is recommended however you can also only buy the necessarry parts for the projects you want to complete.
+## Project Structure
 The projects will have a small introduction on what is the expected outcome, and a Bill of Materials. 
 You can search on project name, or project x and go up accordingly. 
 * Projects 1-2 are LED projects
