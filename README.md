@@ -1,6 +1,6 @@
 # Basics of arduino!
 This repository hosts various small projects chronologically that will learn you the basics of arduino. 
- - [Basics of arduino!](#basics-of-arduino-)
+
   * [Project Structure](#project-structure)
   * [Project 1: Button LED](#project-1--button-led)
     + [BOM1 (Bill of Materials Button LED)](#bom1--bill-of-materials-button-led-)
