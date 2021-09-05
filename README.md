@@ -7,9 +7,9 @@ This repository hosts various small projects chronologically that will learn you
   * [Project 2: Light Dimmer](#project-2--light-dimmer)
     + [BOM2 (Bill of Materials Light Dimmer)](#bom2--bill-of-materials-light-dimmer-)
   * [Project 3: LED Bar Chart](#project-3--led-bar-chart)
-  * [BOM3 (Bill of Materials Led Bar Chart)](#bom3--bill-of-materials-led-bar-chart-)
+    + [BOM3 (Bill of Materials Led Bar Chart)](#bom3--bill-of-materials-led-bar-chart-)
   * [Project 4: Strobe LED](#project-4--strobe-led)
-  * [BOM4 (Bill of Materials Strobe LED)](#bom4--bill-of-materials-strobe-led-)
+    + [BOM4 (Bill of Materials Strobe LED)](#bom4--bill-of-materials-strobe-led-)
 
 
 
@@ -57,7 +57,7 @@ As the name `LightDimmerProject2` suggests the LED as seen in project 1 can now 
 A bar chart is a great visual tool to showcase a load, intensity, amplitude a whole host of things the sky is the limit but we will now limit to leds.
 In `LedBarChartProject3` you will controll mutiple leds, it's almost the same as project2 but with more leds. 
 
-## BOM3 (Bill of Materials Led Bar Chart)
+### BOM3 (Bill of Materials Led Bar Chart)
 * Arduino Uno
 * Breadboard
 * Wires
@@ -69,7 +69,7 @@ In `LedBarChartProject3` you will controll mutiple leds, it's almost the same as
 Whoop Whoop, it's the call of the police, `StrobeLEDproject4` will let you manipulate the led's with delays to get a stroboscobe effect.
 This project will use the same potentiometer as in project 2 and project 3. 
 
-## BOM4 (Bill of Materials Strobe LED)
+### BOM4 (Bill of Materials Strobe LED)
 * Arduino Uno
 * Breadboard
 * Wires
