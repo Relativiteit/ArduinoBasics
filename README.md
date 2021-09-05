@@ -11,6 +11,8 @@ This repository hosts various small projects chronologically that will learn you
 [//]: # ( <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> )
 
 For the projects the Elegoo complete starter pack is recommended however you can also only buy the necessarry parts for the projects you want to complete.
+https://www.elegoo.com/collections/uno-r3-starter-kits/products/elegoo-uno-most-complete-starter-kit 
+
 ## Project Structure
 The projects will have a small introduction on what is the expected outcome, and a Bill of Materials. 
 You can search on project name, or project x and go up accordingly. 
