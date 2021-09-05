@@ -5,6 +5,9 @@ For the projects the Elegoo complete starter pack is recommended however you can
 
 ## Project 1 : Button Led 
 This is the "Hello World!" of electronics. 
-`ButtonLedProject1`
+`ButtonLedProject1` is your first program where a normally closed button is pressed so it switches to open and the Led will stop shining bright.
+
+* Parts needed 
+  
 
 
