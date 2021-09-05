@@ -5,6 +5,10 @@ For the projects the Elegoo complete starter pack is recommended however you can
 
 Project Structure
 The projects will have a small introduction on what is the expected outcome, and a Bill of Materials. 
+You can search on project name, or project x and go up accordingly. 
+* Projects 1-2 are LED projects
+You can also search on BOM based on the projects, the BOMx corresponds with the project number. 
+
 
 
 ## Project 1: Button Led 
