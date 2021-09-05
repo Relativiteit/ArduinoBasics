@@ -8,9 +8,9 @@ This repository hosts various small projects chronologically that will learn you
   * [Project 2: Light Dimmer](#project-2--light-dimmer)
     + [BOM2 (Bill of Materials Light Dimmer)](#bom2--bill-of-materials-light-dimmer-)
   * [Project 3: LED Bar Chart](#project-3--led-bar-chart)
-  * [BOM3 (Bill of Materials Led Bar Chart)](#bom3--bill-of-materials-led-bar-chart-)
+    + [BOM3 (Bill of Materials Led Bar Chart)](#bom3--bill-of-materials-led-bar-chart-)
   * [Project 4: Strobe LED](#project-4--strobe-led)
-  * [BOM4 (Bill of Materials Strobe LED)](#bom4--bill-of-materials-strobe-led-)
+    + [BOM4 (Bill of Materials Strobe LED)](#bom4--bill-of-materials-strobe-led-)
 
 [//]: # ( <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> )
 
