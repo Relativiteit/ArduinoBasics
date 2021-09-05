@@ -3,6 +3,15 @@ This repository hosts various small projects chronologically that will learn you
 
 For the projects the Elegoo complete starter pack is recommended however you can also only buy the necessarry parts for the projects you want to complete.
 
+
+- [Basics of arduino!](#basics-of-arduino-)
+  * [Project 1: Button Led](#project-1--button-led)
+    + [BOM1 (Bill of Materials Button Led)](#bom1--bill-of-materials-button-led-)
+  * [Project 2: Light Dimmer](#project-2--light-dimmer)
+    + [BOM2 (Bill of Materials Light Dimmer)](#bom2--bill-of-materials-light-dimmer-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 Project Structure
 The projects will have a small introduction on what is the expected outcome, and a Bill of Materials. 
 You can search on project name, or project x and go up accordingly. 
