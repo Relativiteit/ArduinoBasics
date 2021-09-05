@@ -43,7 +43,7 @@ As the name `LightDimmerProject2` suggests the led as seen in project 1 can now 
 * Breadboard
 * Wires
 * Led
-* 50k ohm potentiometer 
+* 10k ohm potentiometer 
 * 470 ohm resitor
 
 
