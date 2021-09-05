@@ -1,4 +1,4 @@
-# Basics of arduino!
+{title} Basics of arduino!
 This repository hosts various small projects chronologically that will learn you the basics of arduino. 
 
   * [Project Structure](#project-structure)
