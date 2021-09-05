@@ -2,6 +2,7 @@
 This repository hosts various small projects chronologically that will learn you the basics of arduino. 
 
  * [Project Structure](#project-structure)
+ * [Hardware prerequisites](#hardware-prerequisites)
   * [Project 1: Button LED](#project-1--button-led)
     + [BOM1 (Bill of Materials Button LED)](#bom1--bill-of-materials-button-led-)
   * [Project 2: Light Dimmer](#project-2--light-dimmer)
@@ -13,6 +14,7 @@ This repository hosts various small projects chronologically that will learn you
 
 [//]: # ( <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> )
 
+## Hardware prerequisites 
 For the projects the Elegoo complete starter pack is recommended however you can also only buy the necessarry parts for the projects you want to complete.
 https://www.elegoo.com/collections/uno-r3-starter-kits/products/elegoo-uno-most-complete-starter-kit 
 
