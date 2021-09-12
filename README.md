@@ -79,7 +79,7 @@ This project will use the same potentiometer as in project 2 and project 3.
 * 4 x 220 ohm resistors 
 
 ## Project 5: Plant Humidity
-Measure resistance in the soil to determine if a plant needs water, this is great project that you can combine with a valve lateron to give your plants water autonomously. 
+In ```PlantHumidityProject5``` Measure resistance in the soil to determine if a plant needs water, this is great project that you can combine with a valve lateron to give your plants water autonomously. 
 This project will not be using the breadboard and will directly connect to the arduino. So be gentle with handeling components!!
 
 ## BOM5 (Bill of Materials Plant Humidity)
