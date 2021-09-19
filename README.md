@@ -12,9 +12,9 @@ This repository hosts various small projects chronologically that will learn you
 - [Project 4: Strobe LED](#project-4--strobe-led)
   * [BOM4 (Bill of Materials Strobe LED)](#bom4--bill-of-materials-strobe-led-)
 - [Project 5: Plant Humidity](#project-5--plant-humidity)
-- [BOM5 (Bill of Materials Plant Humidity)](#bom5--bill-of-materials-plant-humidity-)
+  * [BOM5 (Bill of Materials Plant Humidity)](#bom5--bill-of-materials-plant-humidity-)
 - [Project 6: Ghost Detector](#project-6--ghost-detector)
-- [BOM6 (Bill of Material GhostDetector)](#bom6--bill-of-material-ghostdetector-)
+  * [BOM6 (Bill of Material GhostDetector)](#bom6--bill-of-material-ghostdetector-)
 
 
 [//]: # ( <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> )
