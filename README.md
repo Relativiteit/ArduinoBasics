@@ -84,9 +84,26 @@ This project will not be using the breadboard and will directly connect to the a
 
 ## BOM5 (Bill of Materials Plant Humidity)
 * Arduino Uno
+* Breadboard
 * Wires
 * LED
 * Water level Detection Sensor Module 
 * Piezo Zoomer
+
+## Project 6: Ghost Detector
+Who you gonna call!! ```GhostDectorProject6``` yeah it does not roll of the thounge but it is what it is. 
+With a wire we are going to detect changes in the electrical magnetic field in and around your dwelling. 
+To make the whole project portable simply add a battery as a powersource and try to recreate blair which (please don't).
+
+## BOM6 (Bill of Material GhostDetector) 
+* Arduino Uno 
+* Breadboard
+* Wires
+* 3 red LEDS
+* 1 yellow LED
+* 6 green LEDs
+* 10 x 220-ohm resistors
+* 20 cm wire with a single wirecore 
+* 1M-ohm resistor 
 
 
