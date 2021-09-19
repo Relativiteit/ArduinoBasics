@@ -96,7 +96,7 @@ This project will not be using the breadboard and will directly connect to the a
 * Piezo Zoomer
 
 ## Project 6: Ghost Detector
-Who you gonna call!! ```GhostDectorProject6``` yeah it does not roll of the thounge but it is what it is. 
+Who you gonna call!! ```GhostDectorProject6``` yeah it does not roll of the tongue but it is what it is. 
 With a wire we are going to detect changes in the electrical magnetic field in and around your dwelling. 
 To make the whole project portable simply add a battery as a powersource and try to recreate blair which (please don't).
 
