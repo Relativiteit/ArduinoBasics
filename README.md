@@ -112,3 +112,5 @@ To make the whole project portable simply add a battery as a powersource and try
 * 1M-ohm resistor 
 
 
+add more projects 
+
